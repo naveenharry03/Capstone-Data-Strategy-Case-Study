@@ -1,1 +1,3 @@
 # Capstone-Data-Strategy-Case-Study
+
+This capstone data science project focuses on improving the delivery date prediction system for Olist, an e-commerce platform, with the goal of enhancing customer satisfaction and reducing inventory costs. Additionally, I have undertaken projects including sentiment analysis of Portuguese reviews, customer churn prediction, customer acquisition cost optimization, fraud detection, and price optimization, all designed to address critical business challenges for Olist. These projects leverage data-driven strategies and machine learning techniques to achieve tangible benefits such as increased revenue, reduced costs, and improved customer experience, showcasing my expertise in data science and its applications.
